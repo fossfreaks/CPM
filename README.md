@@ -1,1 +1,1 @@
-# CPM
+# CPM - Collaborative Project Management 
